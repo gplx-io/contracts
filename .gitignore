@@ -1,0 +1,22 @@
+node_modules/
+.vscode
+typechain/
+env.json
+.tmp-addresses*.json
+data/gplxMigration
+data/esGplxDistribution
+data/bonds
+data/batchSend
+data/nft
+data/snapshotBalance
+data/holders
+data/contractList
+flattened
+distribution-data*.json
+**/.DS_Store
+
+#Hardhat files
+cache
+artifacts
+
+env.json
